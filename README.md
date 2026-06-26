@@ -8,7 +8,6 @@ A modern admin application built using Laravel 12, Inertia.js, and React. This p
 
 - Authentication system (Login / Logout)
 - Admin dashboard
-- Blog management (Create, Read, Update, Delete)
 - User management system
 - Responsive UI with React
 - RESTful backend structure
@@ -53,12 +52,6 @@ A modern admin application built using Laravel 12, Inertia.js, and React. This p
 - php artisan route:list  
 - php artisan queue:work  
 - php artisan migrate:fresh  
-
----
-
-## 📸 Screenshots
-
-Available in the `/screenshots` folder.
 
 ---
 
